@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "customer": {
+      "userId": "1566231810",
+      "firstName": "Zokirjon",
+      "phoneNumber": "998946120034",
+      "language": "UZ",
+      "status": "SELECT_MENU"
+    },
+    "product": {
+      "id": 10,
+      "category": {
+        "id": 4,
+        "nameUz": "Xot-dog",
+        "nameRu": "Xot-dog"
+      },
+      "nameUz": "Xot Dog",
+      "nameRu": "Xot Dog",
+      "price": 15000.0,
+      "imageUrl": "files/images/xotdog.png"
+    },
+    "quantity": 8
+  },
+  {
+    "id": 1,
+    "customer": {
+      "userId": "1870514088",
+      "firstName": "Abdulaziz",
+      "phoneNumber": "+998946682507",
+      "language": "UZ",
+      "status": "SELECT_MENU"
+    },
+    "product": {
+      "id": 5,
+      "category": {
+        "id": 1,
+        "nameUz": "Ichimlikar",
+        "nameRu": "Напитки"
+      },
+      "nameUz": "Coca-Cola",
+      "nameRu": "Coca-Cola",
+      "price": 10900.0,
+      "imageUrl": "files/images/Cola.png"
+    },
+    "quantity": 9
+  },
+  {
+    "id": 2,
+    "customer": {
+      "userId": "1870514088",
+      "firstName": "Abdulaziz",
+      "phoneNumber": "+998946682507",
+      "language": "UZ",
+      "status": "SELECT_MENU"
+    },
+    "product": {
+      "id": 8,
+      "category": {
+        "id": 2,
+        "nameUz": "Burger",
+        "nameRu": "Бургеры"
+      },
+      "nameUz": "Chiz Burger",
+      "nameRu": "Chiz Burger",
+      "price": 15000.0,
+      "imageUrl": "files/images/ChizBurger.png"
+    },
+    "quantity": 9
+  },
+  {
+    "id": 3,
+    "customer": {
+      "userId": "1870514088",
+      "firstName": "Abdulaziz",
+      "phoneNumber": "+998946682507",
+      "language": "UZ",
+      "status": "SELECT_MENU"
+    },
+    "product": {
+      "id": 9,
+      "category": {
+        "id": 3,
+        "nameUz": "Lavash",
+        "nameRu": "Лаваши"
+      },
+      "nameUz": "Big Lavash",
+      "nameRu": "Big Lavash",
+      "price": 25000.0,
+      "imageUrl": "files/images/BIgLavash.png"
+    },
+    "quantity": 9
+  },
+  {
+    "id": 4,
+    "customer": {
+      "userId": "1870514088",
+      "firstName": "Abdulaziz",
+      "phoneNumber": "+998946682507",
+      "language": "UZ",
+      "status": "SELECT_MENU"
+    },
+    "product": {
+      "id": 10,
+      "category": {
+        "id": 4,
+        "nameUz": "Xot-dog",
+        "nameRu": "Xot-dog"
+      },
+      "nameUz": "Xot Dog",
+      "nameRu": "Xot Dog",
+      "price": 15000.0,
+      "imageUrl": "files/images/xotdog.png"
+    },
+    "quantity": 1
+  }
+]

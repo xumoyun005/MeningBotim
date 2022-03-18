@@ -1,0 +1,74 @@
+[
+  {
+    "id": 5,
+    "category": {
+      "id": 1,
+      "nameUz": "Ichimlikar",
+      "nameRu": "Напитки"
+    },
+    "nameUz": "Coca-Cola",
+    "nameRu": "Coca-Cola",
+    "price": 10900.0,
+    "imageUrl": "files/images/Cola.png"
+  },
+  {
+    "id": 6,
+    "category": {
+      "id": 1,
+      "nameUz": "Ichimlikar",
+      "nameRu": "Напитки"
+    },
+    "nameUz": "Pepsi",
+    "nameRu": "Pepsi",
+    "price": 9900.0,
+    "imageUrl": "files/images/Pepsi.png"
+  },
+  {
+    "id": 7,
+    "category": {
+      "id": 2,
+      "nameUz": "Burger",
+      "nameRu": "Бургеры"
+    },
+    "nameUz": "Big Burger",
+    "nameRu": "Big Burger",
+    "price": 17000.0,
+    "imageUrl": "files/images/BigBurger.png"
+  },
+  {
+    "id": 8,
+    "category": {
+      "id": 2,
+      "nameUz": "Burger",
+      "nameRu": "Бургеры"
+    },
+    "nameUz": "Chiz Burger",
+    "nameRu": "Chiz Burger",
+    "price": 15000.0,
+    "imageUrl": "files/images/ChizBurger.png"
+  },
+  {
+    "id": 9,
+    "category": {
+      "id": 3,
+      "nameUz": "Lavash",
+      "nameRu": "Лаваши"
+    },
+    "nameUz": "Big Lavash",
+    "nameRu": "Big Lavash",
+    "price": 25000.0,
+    "imageUrl": "files/images/BIgLavash.png"
+  },
+  {
+    "id": 10,
+    "category": {
+      "id": 4,
+      "nameUz": "Xot-dog",
+      "nameRu": "Xot-dog"
+    },
+    "nameUz": "Xot Dog",
+    "nameRu": "Xot Dog",
+    "price": 15000.0,
+    "imageUrl": "files/images/xotdog.png"
+  }
+]

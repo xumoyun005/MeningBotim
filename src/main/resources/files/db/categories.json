@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "nameUz": "Ichimlikar",
+    "nameRu": "Напитки"
+  },
+  {
+    "id": 2,
+    "nameUz": "Burger",
+    "nameRu": "Бургеры"
+  },
+  {
+    "id": 3,
+    "nameUz": "Lavash",
+    "nameRu": "Лаваши"
+  },
+  {
+    "id": 4,
+    "nameUz": "Xot-dog",
+    "nameRu": "Хот-доги"
+  }
+]
